@@ -21,35 +21,35 @@
 * Youtube API
 
 
-# login.html
+## login.html
 
 Login page
 
-# register.html
+## register.html
 
 Register page
 
-# index.html
+## index.html
 
 There are all course for each category
 There are courses for last search result of the current user
 There is an search bar for searching course
 
-# editProfile.html
+## editProfile.html
 
 User can edit (firstname, lastname, status, language, about) of profile
 
-# profile.html
+## profile.html
 
 User can click the any user's name and go the user's page
 Public user profile for all users. Any user can find any user's information in that page
 If user is instructor which means if the user create at least one course, the page will display instructor information(all created course) of the user else student information (all bought courses) of the user
 
-# instructor.html
+## instructor.html
 
 User can switch to the course create page and see all the course that current user created. User can switch to edit page of the any created course and delete the any course that created previously
 
-# create.html
+## create.html
 
 Create new course. Each course has these attributes:
     * Title
@@ -65,37 +65,37 @@ Create new course. Each course has these attributes:
     * Created date
     * Updated date
 
-# edit.html
+## edit.html
 
 User can edit all information of the course that entered while creating the course. And add content to the page. In the add content part, user can create and delete section and can create and delete lectures in the sections.
 
-# mycourses.html
+## mycourses.html
 
 In the mycourses.html, there are 3 section. Wihslist courses, bought courses and card courses.
 In the card, user can apply the coupon to the course, and checkout the course. In the card, user can remove course from card or move course to wishlist.
 
-# payment.html
+## payment.html
 
 If user come to payment page from the buy now button, there will be only one course in detail else if, user come to payment page from card, there will be all courses that exist in the card.
 If price is 0, after applying coupon, user can complete payment directly. Else, user can't complete the payment.
 
 
-# course.html
+## course.html
 
 There are all information about the specific course. There is an also content of the course. All sections, lectures and lecture video durations exist in the part. 
 User can add the course to wishlist and unwishlist the course.
 User can add the course to the card or buy directly.
 In the bottom of the page, there are all reviews of the course
 
-# search.html
+## search.html
 
 After searching, user will see all search result in this page. And can play with result which means user can filter the result by language, level and category.
 
-# coursecontent.html
+## coursecontent.html
 
 User can come to the page if user bought the course or created the course .User can see all content of the course and watch videos in the lectures. There is an also answer question part. User can ask a new question or reply to the existing question. Finally, user can rate the course. Each user can rate the one course only once.
 
-# rate.html
+## rate.html
 
 User choose the star for rating and add comment for review.
 
