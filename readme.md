@@ -85,7 +85,8 @@ If price is 0, after applying coupon, user can complete payment directly. Else, 
 There are all information about the specific course. There is an also content of the course. All sections, lectures and lecture video durations exist in the part. 
 User can add the course to wishlist and unwishlist the course.
 User can add the course to the card or buy directly.
-In the bottom of the page, there are all reviews of the course
+In the bottom of the page, there are all reviews of the course.
+If the course is free User can enrolled to the directly.
 
 ## search.html
 
@@ -97,6 +98,7 @@ User can come to the page if user bought the course or created the course .User 
 
 ## rate.html
 
+User can rate the course only and only if the user enrolled to the course.
 User choose the star for rating and add comment for review.
 
 
