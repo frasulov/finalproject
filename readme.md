@@ -31,23 +31,23 @@ Register page
 
 ## index.html
 
-There are all course for each category
-There are courses for last search result of the current user
-There is a search bar for searching course
+There are all course for each category.
+There are courses for last search result of the current user.
+There is a search bar for searching course.
 
 ## editProfile.html
 
-User can edit (firstname, lastname, status, language, about) of profile
+User can edit (firstname, lastname, status, language, about) of profile.
 
 ## profile.html
 
-User can click the any user's name and go the user's page
-Public user profile for all users. Any user can find any user's information in that page
-If user is instructor which means if the user create at least one course, the page will display instructor information(all created course) of the user else student information (all bought courses) of the user
+User can click the any user's name and go the user's page.
+Public user profile for all users. Any user can find any user's information in that page.
+If user is instructor which means if the user create at least one course, the page will display instructor information(all created course) of the user else student information (all bought courses) of the user.
 
 ## instructor.html
 
-User can switch to the course create page and see all the course that current user created. User can switch to edit page of the any created course and delete the any course that created previously
+User can switch to the course create page and see all the course that current user created. User can switch to edit page of the any created course and delete the any course that created previously.
 
 ## create.html
 
