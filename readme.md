@@ -103,6 +103,7 @@ User can rate the course only and only if the user enrolled to the course.
 User choose the star for rating and add comment for review.
 
 
+##### Coupons, Languages, Categories are created by the admin.
 
 
 ## Specification
