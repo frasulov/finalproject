@@ -51,7 +51,8 @@ User can switch to the course create page and see all the course that current us
 
 ## create.html
 
-Create new course. Each course has these attributes:
+* Create new course. Each course has these attributes:
+
     * Title
     * Subtitle
     * Image link
