@@ -33,7 +33,7 @@ Register page
 
 There are all course for each category
 There are courses for last search result of the current user
-There is an search bar for searching course
+There is a search bar for searching course
 
 ## editProfile.html
 
