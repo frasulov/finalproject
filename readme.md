@@ -146,18 +146,3 @@ User choose the star for rating and add comment for review.
         * Lecture has a title and youtube video id
 
 
-### Timestamps:
-
-* (0:00) - Register and complete user profile
-* (0:32) - Create Course
-* (1:09) - Edit and Add content to Course
-* (2:02) - Search and filter search result
-* (2:48) - Wishlist, Unwishlist and wishlist page
-* (3:02) - Add to card
-* (3:20) - Checkout, Apply coupon and payment
-* (3:43) - Course Content
-* (3:57) - Q&A
-* (4:29) - Rate
-* (5:15) - Mobile Responsive
-
-
